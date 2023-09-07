@@ -1,6 +1,8 @@
+import { BaseUrl } from "../utils/constants";
+
 export async function createComment(data,token){
     try {
-        const response = await fetch('http://localhost:5000/api/comments/createComment', {
+        const response = await fetch(`${BaseUrl}/api/comments/createComment`, {
             method: "POST", 
             mode: "cors",
             cache: "no-cache",
@@ -21,7 +23,7 @@ export async function createComment(data,token){
 
 export async function getComment(commentId,p){
     const response = await fetch(
-        `http://localhost:5000/api/comments/${commentId}`)
+        `${BaseUrl}/api/comments/${commentId}`)
 
     return response.json(); 
 }
@@ -30,7 +32,7 @@ export async function getCommentsPaginated(postId, p){
     console.log(postId)
     const page = p ? p : 1
     try {
-        const response = await fetch(`/api/comments/infiniteComments/${postId}?page=${page}&limit=5`,{
+        const response = await fetch(`${BaseUrl}/api/comments/infiniteComments/${postId}?page=${page}&limit=5`,{
         }) 
         return response.json()
     }
