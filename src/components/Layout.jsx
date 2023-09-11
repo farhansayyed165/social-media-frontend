@@ -24,8 +24,8 @@ export default function Layout() {
 
     const notLoggedInNavElements = (
         <>
-            <NavLink to={"/login"} state={{ redirectLink: path }} >Login</NavLink>
-            <NavLink to={"/signup"} state={{ redirectLink: path }}>Signup</NavLink>
+            <NavLink to={"/login"} className={"sm:inline-block hidden"} state={{ redirectLink: path }} >Login</NavLink>
+            <NavLink to={"/signup"} className={"sm:inline-block hidden"} state={{ redirectLink: path }}>Signup</NavLink>
         </>
     )
     const loggedInNavElements = (

@@ -17,7 +17,7 @@ function SmallPost({ data, user, token }) {
       <div className='relative'>
         <MoreOptionsPost user={user} token={token} postData={postData} setPostData={setPostData}/>
         
-        <Link to={`/${postData?.user.username}`} className=' '>
+        <Link to={`/${postData?.user?.username}`} className=' '>
           <div className='profile flex items-center  mt-3 mb-2 w-[80%]'>
             <img className='w-12 h-12 rounded-full object-cover mr-4 shadow' src={postData?.user.avatar} alt={`${postData?.user.fullname}'s profile image`} />
             <h1 className='text-lg font-semibold text-gray-900 -mt-1'>{postData?.user.fullname}</h1>
