@@ -22,6 +22,7 @@ ShareSphere is a manifestation of my passion for learning and exploration in the
 
 Have questions, suggestions, or just want to chat about web development and the MERN stack? You can reach out to me at [farhansayyed1656@gmail.com](mailto:farhansayyed1656@gmail.com). I'm excited to connect with fellow learners and developers!
 
+## 
 
 <p align="center">
   <img src="/Screenshot 2023-09-12 230101.jpg" alt="ShareSphere Screenshot" width="600">
