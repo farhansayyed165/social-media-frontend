@@ -1,5 +1,22 @@
+<p align="center">
+  <img src="/public/logo.png" alt="ShareSphere Logo" width="200" height="200">
+</p>
+
 # ShareSphere
+<font size="3">Welcome to ShareSphere – Where Sharing Meets the Digital Sphere!</font>
 <hr>
 
+## Introduction
+
+
 ## Stack
-This website uses the MERN stack which means [<strong>MongoDB</strong>](https://www.mongodb.com/) [<strong>Express</strong>](https://expressjs.com/) [<strong>React</strong>](https://react.dev/) and [<strong>Node.js</strong>](https://nodejs.org/en)
+This website uses the MERN stack which means [<strong>MongoDB</strong>](https://www.mongodb.com/),  [<strong>Express</strong>](https://expressjs.com/),  [<strong>React</strong>](https://react.dev/) and [<strong>Node.js</strong>](https://nodejs.org/en)
+
+## Contact Us
+
+Have questions, feedback, or just want to say hello? [Contact Me](mailto:farhansayyed1656@gmail.com). We'd love to hear from you!
+
+Let's make the digital sphere a place of meaningful connections. Join ShareSphere today!
+
+
+
