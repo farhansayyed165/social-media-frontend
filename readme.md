@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="/public/logo.png" alt="ShareSphere Logo" width="200" height="200">
+  <img src="/public/logo.png" alt="ShareSphere Logo" width="150" height="150">
 </p>
 
 # ShareSphere
-<font size="3">Welcome to ShareSphere – Where Sharing Meets the Digital Sphere!</font>
+<font size="2">Welcome to ShareSphere – Where Sharing Meets the Digital Sphere!</font>
 <hr>
 
 ## Introduction
