@@ -14,7 +14,7 @@ This website uses the MERN stack which means [<strong>MongoDB</strong>](https://
 
 ## Contact Us
 
-Have questions, feedback, or just want to say hello? [Contact Me](mailto:farhansayyed1656@gmail.com). We'd love to hear from you!
+Have questions, feedback, or just want to say hello? [Contact Me](mailto:farhansayyed1656@gmail.com). I'd love to hear from you!
 
 Let's make the digital sphere a place of meaningful connections. Join ShareSphere today!
 
